@@ -1,7 +1,7 @@
 
 # ISS position prediction
 
-This project aims to tech basics about linear and polinomial regressions to make different functions to get a approximation of a value.
+This project aims to teach basics about linear and polinomial regressions to make different functions to get a approximation of a value.
 
 
 ## Run Locally
